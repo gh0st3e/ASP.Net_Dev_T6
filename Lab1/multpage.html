@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lab1.Task5</title>
+</head>
+<body>
+    <input type="number" name="x" id="x" />
+    <input type="number" name="y" id="y" />
+    <input type="submit" value="mult1" onclick="mult()" />
+    <p id="result"></p>
+    <script>
+        function mult() {
+            let request = new XMLHttpRequest();
+
+            var x = document.getElementById('x').value;
+            var y = document.getElementById('y').value;
+
+            var body = 'X=' + x + '&Y=' + y;
+
+            request.open('POST', '/mult', true);
+            request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded') //устанавливает зоголовок http-запроса
+            request.onreadystatechange = () => { //обработчик события, вызываемый когда происходит событие
+                if (request.readyState === 4) {
+                    if (request.status === 200) {
+                        document.getElementById('result').innerHTML = request.responseText;
+                    } else {
+                        alert(request.status);
+                    }
+                }
+            };
+            request.send(body);
+        }
+    </script>
+</body>
+</html>
