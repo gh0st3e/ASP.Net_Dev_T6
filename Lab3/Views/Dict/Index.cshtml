@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Lab3.Models.Contact>
+
+@{
+    ViewBag.Title = "Main Page";
+    
+}
+
+
+
+<h2>Main Page</h2>
+
+<p>
+    <a href="/Dict/Add" class="link">Add</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                <a href="/Dict/Update/@item.Name" class="link">Update</a>
+                <a href="/Dict/Delete/@item.Name" class="link">Delete</a>
+
+            </td>
+        </tr>
+    }
+
+</table>
