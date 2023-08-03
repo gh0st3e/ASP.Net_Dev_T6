@@ -1,0 +1,171 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Lab5B.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Lab5B.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Lab5B.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\csc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\csc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\csc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\csi.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\csi.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\csi.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.AppContext.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Collections.Immutable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Console.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Globalization.Calendars.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.Compression.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.FileSystem.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Net.Http.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Net.Sockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.XPath.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\vbc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\vbc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\vbc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\VBCSCompiler.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\roslyn\VBCSCompiler.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Antlr3.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Microsoft.Web.Infrastructure.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Helpers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Mvc.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Optimization.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Deployment.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\WebGrease.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Helpers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Mvc.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Optimization.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Deployment.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Antlr3.Runtime.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Helpers.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Mvc.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Optimization.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.WebPages.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Lab5B.dll.config
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Lab5B.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Lab5B.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\csc.exe
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\csc.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\csc.rsp
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\csi.exe
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\csi.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\csi.rsp
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.AppContext.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Console.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.Compression.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Net.Http.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Net.Sockets.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.ValueTuple.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.XPath.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\vbc.exe
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\vbc.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\vbc.rsp
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\VBCSCompiler.exe
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Antlr3.Runtime.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Newtonsoft.Json.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Helpers.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Mvc.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Optimization.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Razor.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Deployment.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Razor.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\WebGrease.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Helpers.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Mvc.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Optimization.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.Razor.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Deployment.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\System.Web.WebPages.Razor.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Newtonsoft.Json.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Antlr3.Runtime.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.Razor.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.CopyComplete
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab5B\Lab5B\Lab5B\obj\Debug\Lab5B.pdb
