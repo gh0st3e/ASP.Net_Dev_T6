@@ -1,0 +1,53 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll.config
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\MSSQL_DB.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\EntityFramework.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\PhoneDictionary.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\EntityFramework.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.csproj.CopyComplete
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\MSSQL_DB\obj\Debug\MSSQL_DB.pdb

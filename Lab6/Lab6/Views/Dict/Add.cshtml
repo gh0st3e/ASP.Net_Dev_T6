@@ -1,0 +1,22 @@
+﻿@model PhoneDictionary.Phone
+@using Lab6.Helpers
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Header {
+    <div>
+        <h3>Добавить новый телефон (Header)</h3>
+    </div>
+}
+
+<div>
+    @Html.AddPhoneForm()
+
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Footer {
+    <p>&copy; @DateTime.Now.Year - моя Lab6_Add (Footer)</p>
+}

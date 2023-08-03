@@ -1,0 +1,49 @@
+﻿@model PhoneDictionary.Phone
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Header {
+    <h3>Вы действительно хотите удалить телефон? (Header)</h3>
+}
+
+<div>
+    <hr />
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone_Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone_Number)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div>
+            <input type="submit" value="Удалить" />
+            <br />
+            <br />
+            @Html.ActionLink("К списку телефонов", "Index")
+        </div>
+    }
+
+    @section Footer {
+        <p>&copy; @DateTime.Now.Year - моя Lab6_Delete (Footer)</p>
+    }
+
+</div>

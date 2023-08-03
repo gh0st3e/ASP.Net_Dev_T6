@@ -1,0 +1,27 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+C:\Users\denis\OneDrive\Рабочий стол\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+D:\Study\PIS\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Study\PIS\Lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Study\PIS\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.AssemblyReference.cache
+D:\Study\PIS\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.CoreCompileInputs.cache
+D:\Study\PIS\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Study\PIS\Lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
