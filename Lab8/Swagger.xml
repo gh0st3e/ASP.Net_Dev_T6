@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab8</name>
+    </assembly>
+    <members>
+        <member name="M:Lab8.Controllers.UserController.Get">
+            <summary>
+            Get All Users
+            </summary>
+            <remarks>
+            create 20.05.2022
+            </remarks>
+        </member>
+        <member name="M:Lab8.Controllers.UserController.AddUser(Lab8.User)">
+            <summary>
+            Add User
+            </summary>
+            <remarks>
+			create 20.05.2022
+			</remarks>
+            <response code="200">User updated</response>
+            <response code="400">User not added</response>
+        </member>
+        <member name="M:Lab8.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Get User by Id
+            </summary>
+            <remarks>
+			create 20.05.2022
+			</remarks>
+            <param name="id" example="101">The User id</param>
+            <response code="200">User found</response>
+            <response code="400">User not found</response>
+        </member>
+      <member name="M:Lab8.Controllers.UserController.EditUser(Lab8.User)">
+        <summary>
+          Update User
+        </summary>
+        <remarks>
+		create 20.05.2022
+		</remarks>
+        <response code="200">User found</response>
+        <response code="400">User not found</response>
+      </member>
+      <member name="M:Lab8.Controllers.UserController.DeleteUser(System.Int32)">
+        <summary>
+          Delete User by Id
+        </summary>
+        <remarks>
+		create 20.05.2022
+		</remarks>
+        <param name="id" example="101">The User id</param>
+        <response code="200">User found</response>
+        <response code="400">User not found</response>
+      </member>
+        <member name="P:Lab8.User.Id">
+            <summary>
+            Users Id
+            </summary>
+            <example>101</example>
+        </member>
+        <member name="P:Lab8.User.Firstname">
+            <summary>
+            Users Name
+            </summary>
+            <example>Adam</example>
+        </member>
+        <member name="P:Lab8.User.Lastname">
+            <summary>
+            Users Surname
+            </summary>
+            <example>Adam Smith</example>
+        </member>
+        <member name="P:Lab8.User.Email">
+            <summary>
+            Users e-mail
+            </summary>
+            <example>xxx@yyy.com</example>
+        </member>
+        <member name="P:Lab8.User.Password">
+            <summary>
+            password
+            </summary>
+            <example>P@$$w0rd</example>
+        </member>
+        <member name="P:Lab8.User.Status">
+            <summary>
+            active/passive
+            </summary>
+            <example>active/passive</example>
+        </member>
+        <member name="P:Lab8.User.Role">
+            <summary>
+            admin/customer/HR
+            </summary>
+            <example>customer</example>
+        </member>
+        <member name="P:Lab8.Users.Userslist">
+            <summary>
+            Users list
+            </summary>
+        </member>
+    </members>
+</doc>
